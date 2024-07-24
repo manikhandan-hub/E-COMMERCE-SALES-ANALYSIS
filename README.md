@@ -5,8 +5,8 @@
 This data analysis project aim to provide some short insights of an e-commerce company over past year. By analyzing various aspects of the sales data.we seek to identify Products which performs well and identify some trends and patterns.
 
 ### Data Sources 
-
-sales Data: The primary dataset used for this analysis is the "ecommerce_sales_analysis.csv" file,containing detailed information about each sale made by the company.
+ - Downloaded-Kaggle.com
+ - sales Data: The primary dataset used for this analysis is the "ecommerce_sales_analysis.csv" file,containing detailed information about each sale made by the company.
 
 ### Tools
 
