@@ -31,8 +31,31 @@ EDA involved exploring the Sales data to answer key question,such as,
 
 ### Insights Findings.
  - Overall revenue 6 million in one year sales including all products.
- - We have 5 as maximum rating points And on average we got 3 rating scores which shows products. 
- - And services are fair and should achieve more for getting 5 as review score.
+ - We have 5 as maximum rating points And on average we got 3 rating scores.
+ - which shows products And services are fair and should achieve more for getting 5 as review score.
+ - In one year of time we selled 1000 different products.
+ - Top selling product catogories BOOKS,TOYS,SPORTS,ELECTRONICS AND HEALTH ITEMS.
+   
+    
+
+
+
+ 
+ 
+ ### Impact of pricing on review score:
+- This line chart indicates when review score increases meanwhile the pricing also increases.
+- It helps to generate profit and contribute to revenue.
+- The average price of product will increase with respect to review score.
+
+
+### Seasonal sales trends and patterns.
+- Plotted a chart to finding the sales which is in peak and normal 
+- Helps to launch a product on time. And advertise the products on normal days.
+
+
+### Recommandations
+- Should try to increase review score by implementing our services in terms of delivery and quality of products.
+- In our Chart we can find peak days of sales we can introduce top selling products on those months.
 
 
 
